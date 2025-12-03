@@ -255,7 +255,7 @@ If you use TropicBERT or this pipeline, please cite：
 ## 📧 Contact
 
 For questions, please submit an [Issue](https://github.com/yanglin789/TropicBERT-LLMs_One_stop_tutorial/issues) or contact:  
-📩 1264894293yl@gmail.com
+📩 zqiangx@gmail.com, 1264894293yl@gmail.com
 
 **Democratizing plant genomic LLMs—starting from tropical fruits.**
 
