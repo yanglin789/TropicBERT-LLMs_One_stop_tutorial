@@ -90,10 +90,13 @@ You can set up the environment using either conda (recommended) or pip.
 
 Use Masked Language Modeling (MLM) for self-supervised learning on genomic sequences.
 
-**Preparation:**
-1. Download the model files and tokenizer from [HuggingFace](https://huggingface.co/yang0104/TropicBERT).
-2. Place them in `01-pretrain_all/02-model_pretrain_example/`.
-3. Use the sample data in `01-pretrain_all/03-data_pretrain_example/` or replace with your own dataset.
+**Preparation Work**:
+1. **Model and Tokenizer Download**: Download the model files and tokenizer from [HuggingFace](https://huggingface.co/yang0104/TropicBERT).
+2. **Model and Tokenizer Adaptation**:
+    - If the downloaded model is TropicBERTs, there is no need to modify the tokenizer; you can directly use the downloaded tokenizer.
+    - If using other NLP models, only use their model files, and for the tokenizer, use the one provided in the example files.
+3. **File Placement**: Place the downloaded model files and tokenizer (or the tokenizer file from the example) in the `01-pretrain_all/02-model_pretrain_example/` directory. For TropicBERTs models, also follow this path for placement.
+4. **Data Preparation**: You can use the data in the example dataset `01-pretrain_all/03-data_pretrain_example/`, or modify it according to your actual needs to use your own dataset.
 
 **Example Run:**
 ```bash
