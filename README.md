@@ -9,7 +9,7 @@
 
 **TropicBERT-LLMs_One_stop_tutorial** is a fully open-source pipeline that transfers the "pre-training and fine-tuning" paradigm from natural language processing (NLP) to genomics.
 
-Based on this training pipeline, we developed the **TropicBERT** model series. **TropicBERT** is the first genomic foundation model specifically designed for **10 tropical fruit species**, aiming to bring Transformer techniques from NLP to DNA sequence analysis.
+Based on this training pipeline, we developed the **TropicBERT** model series. **TropicBERT** is the first genomic foundation model specifically designed for **10 tropical fruit species**, aiming to bring Transformer techniques from NLP to DNA sequence analysis.**The original genomic data is sourced from**： [tropicalfruit-omics database ](http://www.tropicalfruit-omics.com)
 
 **Key Features:**
 - 🧬 **Genome Pre-training**: Learns genomic sequence features via Masked Language Modeling (MLM).
