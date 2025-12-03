@@ -43,7 +43,7 @@ TropicBERT-LLMs_One_stop_tutorial/
 │   ├── 02-model_finetune_example/      # Fine-tuned model examples
 │   └── 03-data_finetune_example/       # Fine-tuning data examples
 └── 03-Result-Processing_Plotting/      # Result processing and visualization
-└── 04-Data-processing/                 # (New) Raw data preprocessing scripts
+└── 04-Data-processing/                 # Raw data preprocessing scripts
 ```
 
 ---
